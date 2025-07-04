@@ -1,0 +1,20 @@
+#main{
+    display: flex;
+    justify-content: center;
+}
+#main img{
+    width: 150px;
+}
+#main .header{
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.header{
+    color: blue;
+    background-color: bisque;
+    text-align: center;
+    align-items: center;
+}
